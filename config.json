@@ -1,0 +1,15 @@
+{
+    "title": "Project UI Flow",
+    "baseURL": "https:\/\/www.projectflow.test\/cool",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759039",
+        "subfolder": "\/cool",
+        "firstpartycookies": true,
+        "cookiedomain": "projectflow.test"
+    }
+}
